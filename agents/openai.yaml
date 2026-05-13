@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZJU Thesis Writer"
+  short_description: "Generate ZJU thesis drafts from local materials"
+  default_prompt: "Use $zju-thesis-writer to read this directory and generate a Zhejiang University thesis draft with LaTeX sources."
